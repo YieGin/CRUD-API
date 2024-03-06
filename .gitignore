@@ -1,0 +1,14 @@
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# Environments
+.env.local
+.env
+env/
+ENV/
+env.bak/
